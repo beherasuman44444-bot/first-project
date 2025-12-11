@@ -1,2 +1,3 @@
 # first-project
-this is my first python project
+This is my first python project.
+Author - Suman Behera
